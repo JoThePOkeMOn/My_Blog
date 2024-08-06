@@ -1,0 +1,12 @@
+---
+title: "Where does life starts"
+author: "Acqui"
+date: "2024-08-06"
+categories: [views]
+---
+
+Welcome to my first blog to know where the life starts. Life its a word that we hear from the day we land in this world
+
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
