@@ -3,9 +3,9 @@
     "listing": "/index.html",
     "items": [
       "/posts/Marvel/index.html",
+      "/posts/welcome/index.html",
       "/posts/My_expectation/index.html",
-      "/posts/New_Thoughts/index.html",
-      "/posts/welcome/index.html"
+      "/posts/New_Thoughts/index.html"
     ]
   }
 ]
